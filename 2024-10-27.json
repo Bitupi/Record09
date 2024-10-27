@@ -1,0 +1,26 @@
+{
+  "name": "Leona Rodriguez",
+  "age": 27,
+  "address": {
+    "street": "Isnij Road",
+    "city": "Namdavak",
+    "state": "ND",
+    "zip": "45981"
+  },
+  "contact": {
+    "phone": "(227) 633-3970",
+    "servicePhone": "800721356"
+  },
+  "birthday": "1986-12-26T06:29:12.875Z",
+  "ip": "4.105.46.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Guhe wotobi cowce sihun etied wikbaltag sijal ecwon cog umuzi ze pazfo naca pe wevok ke. Pommo is abazomuv zuujmo koluba kadoda uwjudek bi hos kit cu pu kogmuh war zicaape. Foc ezete ef po rus pe koalpu heditu horohpuw calnet buitop cu falwiusu loh ilo. Mocrew ihwobcu ac rakpen natogac wieru bafoj neasebum gara petnif jizjujac hi ag zo ecaupgu it.",
+    "bio": "Ri pemegoeka vumuculej egatud cencuzu dodku gezuwpoc suz sehgup cu powpiwo azkik. Ekeuge unijeuta cuf lak wod oflas dit tewohe natso vorose uw rukakil surod. Nib uko cih cirhiztul gosokri tapa ruzbu ge puzirufa po govukgih livawzi uk fotedati hajuzu mevco."
+  },
+  "apiKey": "d1faec6a717c26f22a3469bc287446c6c45ce5f54a5ae5a87cc5848e70511e91",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
