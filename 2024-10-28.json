@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Perry",
+  "age": 27,
+  "address": {
+    "street": "Cicgo Street",
+    "city": "Unlusju",
+    "state": "IL",
+    "zip": "53316"
+  },
+  "contact": {
+    "phone": "(816) 289-9167",
+    "servicePhone": "800966543"
+  },
+  "birthday": "1986-08-09T03:58:01.130Z",
+  "ip": "162.129.148.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Enaopovi ticpa fahig gabutkaf pi guz hebfucku ad vezbopala jitkovu ri rutilvi. Za ik zeptam herero hoz hadjuthob obave sav vu mi jabifcu ipu julwi. Uwihikef unobcaz fe gi so ob damcim agakalbi tiopvu ecsuf hugkuv juujori ta vetvu keg bucdop kuudouz elepoce. Dukdopec bis je fuebaka cinutru zod ru fojowlu gibolih zun citvout nub.",
+    "bio": "Eltac dimzu oma seja tun har buvapigo fo sowtewzop vucwev ku sac pupja. Mef hejcip icbeg pu ebsikom jumorfo jevat fecibami lu cunizop tu pad hep ritpikzim. Fuplom tivtizas hifaw abewakmom te seg laivo avjiwen retsi mitleto wem pohefru vipmora gena. Rigo tap fa tikmohfip aviwujse citmogofa pevawak rohpuewa eko dipa an dej ocuazawic juszepavo vomodav cecsipbic finpo."
+  },
+  "apiKey": "40f11f41fd3293b40b4a3f892be2bb3707518604c029333f59f920219fc7a8b6",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
