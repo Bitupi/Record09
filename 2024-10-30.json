@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Cross",
+  "age": 31,
+  "address": {
+    "street": "Jurono Manor",
+    "city": "Ohhuwgus",
+    "state": "HI",
+    "zip": "42941"
+  },
+  "contact": {
+    "phone": "(678) 655-4767",
+    "servicePhone": "800988498"
+  },
+  "birthday": "1978-02-23T12:03:38.529Z",
+  "ip": "55.133.133.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Narer vagvi evvi no li waipasuc ni lid resi wugopi mafde urero miop gi. Do oci motigca rir ok fauk eluliw ba vomer lu weorrim en fudomapu zoc bilzahfe. Muasuto fivrike hiam wed vew tukemo cuekokiv mawju vazilu awgipiz miz ten mapgim.",
+    "bio": "Baekcaz iwdak bo hunrap aw tevilu gitan no lu nigenu raz sav zorje zucu apuv. Fegheaf pe up nerdowji ege huf mihumma am wob odukazcu baweg ci hoj. Wawza ohe bu ren garepojo bub ew volnozah iderodi hiczumuw fessog dovihe len. Je hom eddisiv wahu haccom odenek nuktal juuj zape zuzruf fu ruppec vafpuwva ok hitohuva."
+  },
+  "apiKey": "0c3337746d3682c8d8e90ee4a126e49a866db6a3fc2ce656a7481091af5497cb",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
