@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Williams",
+  "age": 18,
+  "address": {
+    "street": "Pipem Court",
+    "city": "Parjatol",
+    "state": "NV",
+    "zip": "91443"
+  },
+  "contact": {
+    "phone": "(435) 555-5260",
+    "servicePhone": "800798973"
+  },
+  "birthday": "1993-02-03T07:15:32.591Z",
+  "ip": "214.238.65.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Atider zomcigul zi izipocur piev kawdose sohwuw ogalu doeli zucogoz vor godze su. Tic ot guz em rottiefu pijnirari abopuis hujebugis titnozoz vahdemaj is vis loki wewu rakezgid pehze guvuf cu. Mi pajrilja recoba am vufifi hume akpecu zicecgo kisvez vo luci go bum kakasga secacaco zeda tifzassu ojahur.",
+    "bio": "Hi hohi zi huc fohofko ca wevkaje fojoki eli getsurmu lubme wezor ogumev eli. Udwe nidotu ken oru hodgef celeut va fumaub emos emoopozep vekce puz se nugosmoj da azura. On nuzolket cisen geknakap onwejum beeswaf vezlundu pijior esi vot maceki egediv af. Can jutafabob veid rofupi sutu miupe agowizfow les kewerilu luhwi coep pil waf pucikaj nisteg. Fi icaba gehnueg alinihor fartiim teujme fupebrif nitejom hubdi buralsa su hoododom lo."
+  },
+  "apiKey": "84882da71f02f3061829be385717d6903788afc46c1e0b6f9d6cb505a91ae8a6",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
