@@ -1,0 +1,26 @@
+{
+  "name": "Sarah French",
+  "age": 52,
+  "address": {
+    "street": "Atset Grove",
+    "city": "Imosahumo",
+    "state": "FL",
+    "zip": "25400"
+  },
+  "contact": {
+    "phone": "(701) 271-5807",
+    "servicePhone": "800187511"
+  },
+  "birthday": "1959-09-28T09:46:23.935Z",
+  "ip": "86.101.170.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Megwufus ij fenef fin ubkaah lugoini za bi nuvbabwu bureg isuhowe mew irfoh mufjari. Rasotiw ijcakiz kufjobaw zaloc sim obu bepe udsuwsi pa sapda de li watoepa zojtid ruckoz ivpasin pevir. Haj ewekij wa cev nopguv se kozsipud cusake jijefob ozu fivla mi ta hezneze ojwe acubozu fimera ru. Utnog vakmusrur eru fiad bawonip utirutlup ezmaw juzig tuv zaf juhu re eno uragolmi ihanimfol esbo rubiam feede. Ci egowos fud uteizugif usiogo pafo dec lo toz daebu ve uj.",
+    "bio": "Poezufi wigefa ondewah wifre toj fease za ida va owwej zezec gavmufig. Okuivcit lafu comat gaf hacetuj ha eb can rutef ke tiut nuclapka. Vo fogdame lubonpem vobijfal ap oh bakhohnuz me iraja zacosmoh hi aliha ledebse gobkuj te gib ga. Duisje dufefov tiube tir atusohka ceudo wuf nocnifuz iroahabik tavhipu fidehu ijijoje ivda nihi."
+  },
+  "apiKey": "9d7f6865441fde1a16c989f6a14ef73dd97c0cba58b771f9f85274dbdf9e355d",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
