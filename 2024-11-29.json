@@ -1,0 +1,26 @@
+{
+  "name": "Bess Freeman",
+  "age": 30,
+  "address": {
+    "street": "Aloeg Manor",
+    "city": "Jarakis",
+    "state": "MS",
+    "zip": "76026"
+  },
+  "contact": {
+    "phone": "(857) 997-1866",
+    "servicePhone": "800335545"
+  },
+  "birthday": "2005-07-28T02:24:03.362Z",
+  "ip": "217.219.104.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Zabde ec ezunajmul dusbagewi ejdetev zougfal om bi wug fa afanuh duf dupef zedfiul. Uwkaehi fizdopke ahmo isubebzuv otbano ide ezvu moj kig lafijdo bac vubik ezmo nu unce. Ferojawud wakti gapseghej wesecjif jehare luel covnezuk safuziha vosbili ve pawpiaci zogliihi fefwucak zit lari op.",
+    "bio": "Del wuug ugiaseno la fotode ije epkab itjur fe niclijed it vezojaope fos enzen bivlikcu. Cova keoduvow mof oja huthup pohol ronaj runewo julato di pilej vownahwu joc kipbe zij hawuc sa jowedom. Osi wobocmu elnu owa wisoj affi nafag miguksu ano up deduku jimvowa nedgi dutucun lu."
+  },
+  "apiKey": "329a49199f015a263780a9feb31176be9ddfa904bdf5422d12bea4c93e0f8b20",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
