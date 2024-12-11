@@ -1,0 +1,26 @@
+{
+  "name": "Dominic McCoy",
+  "age": 21,
+  "address": {
+    "street": "Maga Pass",
+    "city": "Vagimeho",
+    "state": "MD",
+    "zip": "63447"
+  },
+  "contact": {
+    "phone": "(633) 716-1465",
+    "servicePhone": "800646439"
+  },
+  "birthday": "1986-04-14T01:26:36.467Z",
+  "ip": "37.14.175.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Bor ul cit acuwekah ciirgu nuveljal cup gabziz vafuj fib ahuze kehmeg ope un litrokguj buf. Tejos lunot valdisat hed tukhu repcakno ugfih diglifta diihdi evecic af dot ape cewhen. Tojlew ohi za wuwje cajzoghi mir rijo ikdepoz nozfokef pinre efu vumliz zecaodo. Sut oli pumulaf pogbe zoh vibo gappeume ce one rev figuwowu viwfemoso wumrukum.",
+    "bio": "Jal lab nurocuz vaelufu fu uca noruv tisjow mirdi alavu ob ojovu licilfef sonaot te. Kabacbac def katobuh okipwej natkatwa mehisfa ipede ikokjej memmevbih vinehdo duzonof evdi sejzam pec icomic licuc bircanla. Vomfonra rot van sutrimir genoheeru dikdibda wiurouco rudna vap zad hipe sa kokit noro lu gardap. Wom sufzouru ekasikave eltu bot tus unogetji ga do gogmij nawgu jide. Giwzam huabga oweuhodu fipusuho fa birpiaf kuw up pubef mo tapnur naoh radre vivheneje idaf tojhiadu."
+  },
+  "apiKey": "7774d233a96d8f35e2ef923e7eb5333ce8575d8f867ae5b2a22484d6a06e6ae7",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
